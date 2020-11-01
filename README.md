@@ -6,6 +6,5 @@ Realizar a ingestão dos dados em "sample_data", "CollegeScorecard_Raw_Data.zip"
 
 Para ter acesso a parte privada deve utilizar
 
-
 Login: admin
 Senha: admin
