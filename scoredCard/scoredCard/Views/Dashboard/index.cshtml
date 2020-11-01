@@ -1,0 +1,104 @@
+﻿@model scoredCard.Models.Scorecard
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<style>
+    .sep {
+        padding: 10px;
+        border-bottom: 1px dotted #eef0f3;
+    }
+
+    .au {
+        min-height: 446px
+    }
+
+    .card {
+        padding: 0px;
+        margin: 10px;
+    }
+</style>
+
+<div class="row">
+    <div class="col-sm-6 col-md-3">
+        <div class="card card-stats card-round">
+            <div class="card-body ">
+                <div class="row">
+                    <div class="col-5">
+                        <div class="icon-big text-center">
+                            <i class="fa fa-users" style="color:grey;"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-stats">
+                        <div class="numbers">
+                            <p class="card-category">Registros</p>
+                            <h4 class="card-title">>@Model.UNITID</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 col-md-3">
+        <div class="card card-stats card-round">
+            <div class="card-body ">
+                <div class="row">
+                    <div class="col-5">
+                        <div class="icon-big text-center">
+                            <i class="fas fa-map-signs" style="color:green;"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-stats">
+                        <div class="numbers">
+                            <p class="card-category">Cidades</p>
+                            <h4 class="card-title">@Model.CITY</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 col-md-3">
+        <div class="card card-stats card-round">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-5">
+                        <div class="icon-big text-center">
+                            <i class="fas fa-map-marker-alt" style="color:purple;"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-stats">
+                        <div class="numbers">
+                            <p class="card-category">Estados</p>
+                            <h4 class="card-title">@Model.REGION</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-sm-6 col-md-3">
+        <div class="card card-stats card-round">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-5">
+                        <div class="icon-big text-center">
+                            <i style='font-size:24px' class="fas fa-thumbtack"></i>
+                        </div>
+                    </div>
+                    <div class="col-7 col-stats">
+                        <div class="numbers">
+                            <p class="card-category">Regioes</p>
+                            <h4 class="card-title">@Model.REGION</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+  

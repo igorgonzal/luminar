@@ -1,0 +1,40 @@
+﻿@model IEnumerable<scoredCard.Models.Scorecard>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="row">
+    <div class="text-center">
+        <h1 class="display-4">Pesquisa dos dados</h1>
+    </div>
+</div>
+
+<div class="row">
+    @if (Model != null && Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Endereço</th>
+                    <th scope="col">Cidade</th>
+                    <th scope="col">Estado</th>
+                    <th scope="col">CEP</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@item.UNITID</th>
+                        <td>@item.INSTNM</td>
+                        <td>@item.CITY</td>
+                        <td>@item.REGION</td>
+                        <td>@item.ZIP</td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>}
+</div>
+

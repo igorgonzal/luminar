@@ -1,0 +1,17 @@
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\bin\Debug\netcoreapp3.1\BuscaElastic.Arquivos.deps.json
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\bin\Debug\netcoreapp3.1\BuscaElastic.Arquivos.dll
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\bin\Debug\netcoreapp3.1\BuscaElastic.Arquivos.pdb
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.AssemblyInfoInputs.cache
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.AssemblyInfo.cs
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.dll
+D:\Projetos\Estudos\BuscaElastic\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.pdb
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\bin\Debug\netcoreapp3.1\BuscaElastic.Arquivos.deps.json
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\bin\Debug\netcoreapp3.1\BuscaElastic.Arquivos.dll
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\bin\Debug\netcoreapp3.1\BuscaElastic.Arquivos.pdb
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.csprojAssemblyReference.cache
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.AssemblyInfoInputs.cache
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.AssemblyInfo.cs
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.dll
+C:\Users\DEV\Documents\Pessoal\Projeto\luminar\app\scoredCard\BuscaElastic.Arquivos\obj\Debug\netcoreapp3.1\BuscaElastic.Arquivos.pdb
